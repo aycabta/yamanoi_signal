@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 gem 'sinatra'
 gem 'mechanize'
 
-ruby '3.0.0'
+ruby '3.0.2'
